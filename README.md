@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedk10" alt="ahmedk10" /></a> </p>
 
-- 🔭 I’m currently working on **A pet store**
-
 - 🌱 I’m currently learning **React, Python**
 
 - 💬 Ask me about **Ruby, Ruby on Rails, JavaScript, SQL, HTML5, CSS3, Git, C**
