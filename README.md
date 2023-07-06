@@ -8,7 +8,8 @@
 <p align="left"> <a target="blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedk10" alt="ahmedk10" /></a> </p>
 
 
-✨✨ My Portfolio is found here: [AhmedK](https://ahmedkdeveloper.net) ✨✨
+✨✨ My Portfolio is found here: [AhmedK](https://ahmedkdeveloper.net){:target="_blank"} ✨✨
+
 
 
 - 🌱 I’m currently learning **React, Python**
