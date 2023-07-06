@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">Junior Full-Stack Developer</h3>
 
-- ✨ My Portfolio is found here: **<a href="https://ahmedkdeveloper.net">**
-
 <p align="center">A Versatile Engineer with a Master's degree in Engineering from Chalmers University of Technology and a Full-Stack Web Development Bootcamp graduate from Le Wagon. Having immersed myself in three distinct cultural environments, I bring a unique perspective to my work. Now looking to transition into a Web Development position coming from a background in Computer Simulations.</p>
 
 <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedk10" alt="ahmedk10" /></a> </p>
+
+✨✨ My Portfolio is found here: **<a href="https://ahmedkdeveloper.net">** ✨✨
 
 - 🌱 I’m currently learning **React, Python**
 
