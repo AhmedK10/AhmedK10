@@ -12,9 +12,9 @@
 
 
 
-- 🌱 I’m currently learning **React, Python**
+- 🌱 I’m currently learning **React, Python, Django**
 
-- 💬 Ask me about **Ruby, Ruby on Rails, JavaScript, SQL, HTML5, CSS3, Git, C**
+- 💬 Ask me about **Ruby, Ruby on Rails, JavaScript, SQL, MATLAB, HTML5, CSS3, Git, C**
 
 - 📫 How to reach me **ahmed.khog@outlook.com**
 
