@@ -12,7 +12,7 @@
 
 
 
-- 🌱 I’m currently learning **React, Python, Django**
+- 🌱 I’m currently learning **React, Python, Django, TypeScript**
 
 - 💬 Ask me about **Ruby, Ruby on Rails, Python, JavaScript, SQL, MATLAB, HTML5, CSS3, Git, C**
 
