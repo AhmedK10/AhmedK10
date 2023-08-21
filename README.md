@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">Junior Full-Stack Developer</h3>
 
-<p align="center">A Versatile Engineer with a Master's degree in Engineering from Chalmers University of Technology and a Full-Stack Web Development Bootcamp graduate from Le Wagon. Having immersed myself in three distinct cultural environments, I bring a unique perspective to my work. Now looking to transition into a Web Development position coming from a background in Computer Simulations.</p>
+<p align="center">A Versatile Engineer with a Master's degree in Engineering from Chalmers University of Technology and a Full-Stack Web Development Bootcamp graduate from Le Wagon. Having immersed myself in three distinct cultural environments, I bring a unique perspective to my work.</p>
 
 <br>
 
