@@ -18,7 +18,6 @@
 
 - 📫 How to reach me **ahmed.khog@outlook.com**
 
-- ⚡ Fun fact **I am a huge math nerd since elementary school and I like logical problem-solving 🤓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
